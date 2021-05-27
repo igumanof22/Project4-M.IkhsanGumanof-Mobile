@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project4-M. Ikhsan Gumanof</string>
+    <string name="proses">PROSES</string>
+    <string name="credit">Credit</string>
+    <string name="cash">Cash</string>
+    <string name="atm">ATM</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="harga">Harga</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="satuan">Satuan</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="transaksi">TRANSAKSI</string>
+    <string name="output_transaksi">OUTPUT TRANSAKSI</string>
+    <string name="detail_transaksi">Detail Transaksi :</string>
+    <string-array name="satuan">
+        <item>Kg</item>
+        <item>Kodi</item>
+        <item>Lusin</item>
+        <item>Sachet</item>
+    </string-array>
+</resources>
